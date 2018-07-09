@@ -59,3 +59,4 @@ data = getCurrencyData()
 # print('Data in currencyScratchpad0 is: \n' + str(data))
 
 print(str(data.columns[0]))
+ # Test
